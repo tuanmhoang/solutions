@@ -1,9 +1,9 @@
 # Contents
-- [Problem](problem)
-- [Solution 1](solution-1)
-- [Solution 2](solution-2)
-- [Solution 3](solution-3)
-- [Solution 4](solution-4)
+- [Problem](#problem) 
+- [Solution 1](#solution-1)
+- [Solution 2](#solution-2)
+- [Solution 3](#solution-3)
+- [Solution 4](#solution-4)
 
 ## Problem
 
